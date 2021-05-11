@@ -1,0 +1,6 @@
+/Users/jess/Documents/Developer/csharp-intermediate/1_Classes/Constructors/Constructors/bin/Debug/Constructors.exe
+/Users/jess/Documents/Developer/csharp-intermediate/1_Classes/Constructors/Constructors/bin/Debug/Constructors.pdb
+/Users/jess/Documents/Developer/csharp-intermediate/1_Classes/Constructors/Constructors/obj/Debug/Constructors.csprojAssemblyReference.cache
+/Users/jess/Documents/Developer/csharp-intermediate/1_Classes/Constructors/Constructors/obj/Debug/Constructors.csproj.CoreCompileInputs.cache
+/Users/jess/Documents/Developer/csharp-intermediate/1_Classes/Constructors/Constructors/obj/Debug/Constructors.exe
+/Users/jess/Documents/Developer/csharp-intermediate/1_Classes/Constructors/Constructors/obj/Debug/Constructors.pdb

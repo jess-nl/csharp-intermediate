@@ -1,0 +1,6 @@
+/Users/jess/Documents/Developer/csharp-intermediate/1_Classes/Fields/Fields/bin/Debug/Fields.exe
+/Users/jess/Documents/Developer/csharp-intermediate/1_Classes/Fields/Fields/bin/Debug/Fields.pdb
+/Users/jess/Documents/Developer/csharp-intermediate/1_Classes/Fields/Fields/obj/Debug/Fields.csprojAssemblyReference.cache
+/Users/jess/Documents/Developer/csharp-intermediate/1_Classes/Fields/Fields/obj/Debug/Fields.csproj.CoreCompileInputs.cache
+/Users/jess/Documents/Developer/csharp-intermediate/1_Classes/Fields/Fields/obj/Debug/Fields.exe
+/Users/jess/Documents/Developer/csharp-intermediate/1_Classes/Fields/Fields/obj/Debug/Fields.pdb

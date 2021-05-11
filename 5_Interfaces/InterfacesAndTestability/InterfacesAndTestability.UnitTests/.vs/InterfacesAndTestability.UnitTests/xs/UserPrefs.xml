@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{88927214-6510-4F33-B03D-BADCCCD4C3A3}|Default">
+  <MonoDevelop.Ide.ItemProperties.InterfacesAndTestability.UnitTests FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="InterfacesAndTestability.UnitTests/OrderProcessorTests.cs">
+    <Files>
+      <File FileName="InterfacesAndTestability.UnitTests/Program.cs" Line="9" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InterfacesAndTestability" expanded="True">
+            <Node name="InterfacesAndTestability" expanded="True" />
+          </Node>
+          <Node name="InterfacesAndTestability.UnitTests" expanded="True">
+            <Node name="InterfacesAndTestability.UnitTests" expanded="True">
+              <Node name="OrderProcessorTests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

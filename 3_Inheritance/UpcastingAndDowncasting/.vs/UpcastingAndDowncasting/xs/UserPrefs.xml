@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{512ED685-A3D5-46C9-B6BA-85DB365158D4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UpcastingAndDowncasting/Program.cs">
+    <Files>
+      <File FileName="UpcastingAndDowncasting/Program.cs" Line="36" Column="2" />
+      <File FileName="UpcastingAndDowncasting/Shape.cs" Line="13" Column="1" />
+      <File FileName="UpcastingAndDowncasting/Text.cs" Line="7" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UpcastingAndDowncasting" expanded="True">
+            <Node name="UpcastingAndDowncasting" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>shape</Value>
+          <Value>Text</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.UpcastingAndDowncasting PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/jess/Documents/Developer/csharp-intermediate/3_Inheritance/UpcastingAndDowncasting/UpcastingAndDowncasting/Program.cs" relfile="UpcastingAndDowncasting/Program.cs" line="32" column="13" />
+      <Breakpoint file="/Users/jess/Documents/Developer/csharp-intermediate/3_Inheritance/UpcastingAndDowncasting/UpcastingAndDowncasting/Program.cs" relfile="UpcastingAndDowncasting/Program.cs" line="33" column="13" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

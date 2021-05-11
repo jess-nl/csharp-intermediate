@@ -1,0 +1,6 @@
+/Users/jess/Documents/Developer/csharp-intermediate/5_Interfaces/InterfacesAndTestability/InterfacesAndTestability/bin/Debug/InterfacesAndTestability.exe
+/Users/jess/Documents/Developer/csharp-intermediate/5_Interfaces/InterfacesAndTestability/InterfacesAndTestability/bin/Debug/InterfacesAndTestability.pdb
+/Users/jess/Documents/Developer/csharp-intermediate/5_Interfaces/InterfacesAndTestability/InterfacesAndTestability/obj/Debug/InterfacesAndTestability.csprojAssemblyReference.cache
+/Users/jess/Documents/Developer/csharp-intermediate/5_Interfaces/InterfacesAndTestability/InterfacesAndTestability/obj/Debug/InterfacesAndTestability.csproj.CoreCompileInputs.cache
+/Users/jess/Documents/Developer/csharp-intermediate/5_Interfaces/InterfacesAndTestability/InterfacesAndTestability/obj/Debug/InterfacesAndTestability.exe
+/Users/jess/Documents/Developer/csharp-intermediate/5_Interfaces/InterfacesAndTestability/InterfacesAndTestability/obj/Debug/InterfacesAndTestability.pdb

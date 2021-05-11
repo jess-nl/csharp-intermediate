@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{756A828D-07C2-479A-83BE-33E4FA1E5D52}|Default">
+  <MonoDevelop.Ide.ItemProperties.InterfacesAndPolymorphism PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="InterfacesAndPolymorphism/Program.cs">
+    <Files>
+      <File FileName="InterfacesAndPolymorphism/Program.cs" Line="11" Column="79" />
+      <File FileName="InterfacesAndPolymorphism/VideoEncoder.cs" />
+      <File FileName="InterfacesAndPolymorphism/MailService.cs" />
+      <File FileName="InterfacesAndPolymorphism/INotificationChannel.cs" />
+      <File FileName="InterfacesAndPolymorphism/MailNotificationChannel.cs" />
+      <File FileName="InterfacesAndPolymorphism/SmsNotificationChannel.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="InterfacesAndPolymorphism" expanded="True">
+            <Node name="InterfacesAndPolymorphism" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

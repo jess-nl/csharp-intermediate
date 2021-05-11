@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{EC4DAF95-2B9D-4B50-94F8-8B11FEF608F7}|Default">
+  <MonoDevelop.Ide.ItemProperties.Constructors PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Constructors/Customer.cs">
+    <Files>
+      <File FileName="Constructors/Program.cs" Line="19" Column="48" />
+      <File FileName="Constructors/Customer.cs" Line="25" Column="67" />
+      <File FileName="Constructors/EmptyClass.cs" Line="10" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Constructors" expanded="True">
+            <Node name="Constructors" expanded="True">
+              <Node name="Customer.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>customer</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/jess/Documents/Developer/csharp-intermediate/1_Classes/Constructors/Constructors/Program.cs" relfile="Constructors/Program.cs" line="18" column="13" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

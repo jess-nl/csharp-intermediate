@@ -1,0 +1,6 @@
+/Users/jess/Documents/Developer/csharp-intermediate/1_Classes/AccessModifiers/AccessModifiers/bin/Debug/AccessModifiers.exe
+/Users/jess/Documents/Developer/csharp-intermediate/1_Classes/AccessModifiers/AccessModifiers/bin/Debug/AccessModifiers.pdb
+/Users/jess/Documents/Developer/csharp-intermediate/1_Classes/AccessModifiers/AccessModifiers/obj/Debug/AccessModifiers.csprojAssemblyReference.cache
+/Users/jess/Documents/Developer/csharp-intermediate/1_Classes/AccessModifiers/AccessModifiers/obj/Debug/AccessModifiers.csproj.CoreCompileInputs.cache
+/Users/jess/Documents/Developer/csharp-intermediate/1_Classes/AccessModifiers/AccessModifiers/obj/Debug/AccessModifiers.exe
+/Users/jess/Documents/Developer/csharp-intermediate/1_Classes/AccessModifiers/AccessModifiers/obj/Debug/AccessModifiers.pdb

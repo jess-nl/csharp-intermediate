@@ -1,0 +1,6 @@
+/Users/jess/Documents/Developer/csharp-intermediate/3_Inheritance/ConstructorsAndInheritance/ConstructorsAndInheritance/bin/Debug/ConstructorsAndInheritance.exe
+/Users/jess/Documents/Developer/csharp-intermediate/3_Inheritance/ConstructorsAndInheritance/ConstructorsAndInheritance/bin/Debug/ConstructorsAndInheritance.pdb
+/Users/jess/Documents/Developer/csharp-intermediate/3_Inheritance/ConstructorsAndInheritance/ConstructorsAndInheritance/obj/Debug/ConstructorsAndInheritance.csprojAssemblyReference.cache
+/Users/jess/Documents/Developer/csharp-intermediate/3_Inheritance/ConstructorsAndInheritance/ConstructorsAndInheritance/obj/Debug/ConstructorsAndInheritance.csproj.CoreCompileInputs.cache
+/Users/jess/Documents/Developer/csharp-intermediate/3_Inheritance/ConstructorsAndInheritance/ConstructorsAndInheritance/obj/Debug/ConstructorsAndInheritance.exe
+/Users/jess/Documents/Developer/csharp-intermediate/3_Inheritance/ConstructorsAndInheritance/ConstructorsAndInheritance/obj/Debug/ConstructorsAndInheritance.pdb
