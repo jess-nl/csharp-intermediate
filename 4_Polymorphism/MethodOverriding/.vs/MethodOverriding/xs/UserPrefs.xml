@@ -3,12 +3,12 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="MethodOverriding/Canvas.cs">
     <Files>
       <File FileName="MethodOverriding/Program.cs" Line="10" Column="38" />
-      <File FileName="MethodOverriding/Shape.cs" Line="15" Column="2" />
+      <File FileName="MethodOverriding/Shape.cs" />
       <File FileName="MethodOverriding/Canvas.cs" Line="20" Column="1" />
-      <File FileName="MethodOverriding/Position.cs" Line="8" Column="2" />
-      <File FileName="MethodOverriding/Circle.cs" Line="13" Column="1" />
-      <File FileName="MethodOverriding/Rectangle.cs" Line="12" Column="1" />
-      <File FileName="MethodOverriding/Triangle.cs" Line="12" Column="1" />
+      <File FileName="MethodOverriding/Position.cs" />
+      <File FileName="MethodOverriding/Circle.cs" />
+      <File FileName="MethodOverriding/Rectangle.cs" />
+      <File FileName="MethodOverriding/Triangle.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

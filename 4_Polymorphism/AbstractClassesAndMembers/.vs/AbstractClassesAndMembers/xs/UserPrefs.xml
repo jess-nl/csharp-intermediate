@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{25238837-4F7E-4E6B-9930-64F93EB5CE47}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="AbstractClassesAndMembers/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AbstractClassesAndMembers/Circle.cs">
     <Files>
       <File FileName="AbstractClassesAndMembers/Program.cs" Line="16" Column="34" />
       <File FileName="AbstractClassesAndMembers/Shape.cs" Line="22" Column="1" />
@@ -11,7 +11,7 @@
         <State name="__root__">
           <Node name="AbstractClassesAndMembers" expanded="True">
             <Node name="AbstractClassesAndMembers" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Circle.cs" selected="True" />
             </Node>
           </Node>
         </State>
