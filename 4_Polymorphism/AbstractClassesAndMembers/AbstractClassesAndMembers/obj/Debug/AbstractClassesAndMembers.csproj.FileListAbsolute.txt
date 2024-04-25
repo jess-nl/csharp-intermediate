@@ -1,6 +1,0 @@
-/Users/jess/Documents/Developer/csharp-intermediate/4_Polymorphism/AbstractClassesAndMembers/AbstractClassesAndMembers/bin/Debug/AbstractClassesAndMembers.exe
-/Users/jess/Documents/Developer/csharp-intermediate/4_Polymorphism/AbstractClassesAndMembers/AbstractClassesAndMembers/bin/Debug/AbstractClassesAndMembers.pdb
-/Users/jess/Documents/Developer/csharp-intermediate/4_Polymorphism/AbstractClassesAndMembers/AbstractClassesAndMembers/obj/Debug/AbstractClassesAndMembers.csprojAssemblyReference.cache
-/Users/jess/Documents/Developer/csharp-intermediate/4_Polymorphism/AbstractClassesAndMembers/AbstractClassesAndMembers/obj/Debug/AbstractClassesAndMembers.csproj.CoreCompileInputs.cache
-/Users/jess/Documents/Developer/csharp-intermediate/4_Polymorphism/AbstractClassesAndMembers/AbstractClassesAndMembers/obj/Debug/AbstractClassesAndMembers.exe
-/Users/jess/Documents/Developer/csharp-intermediate/4_Polymorphism/AbstractClassesAndMembers/AbstractClassesAndMembers/obj/Debug/AbstractClassesAndMembers.pdb

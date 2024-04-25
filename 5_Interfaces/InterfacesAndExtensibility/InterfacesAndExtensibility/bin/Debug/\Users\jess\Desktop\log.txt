@@ -1,2 +1,0 @@
-INFO: Migration started at 2021-05-10 10:19:53 PM
-INFO: Migration finished at 2021-05-10 10:19:53 PM

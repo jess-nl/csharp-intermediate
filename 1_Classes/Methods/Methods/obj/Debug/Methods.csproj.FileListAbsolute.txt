@@ -1,6 +1,0 @@
-/Users/jess/Documents/Developer/csharp-intermediate/1_Classes/Methods/Methods/bin/Debug/Methods.exe
-/Users/jess/Documents/Developer/csharp-intermediate/1_Classes/Methods/Methods/bin/Debug/Methods.pdb
-/Users/jess/Documents/Developer/csharp-intermediate/1_Classes/Methods/Methods/obj/Debug/Methods.csprojAssemblyReference.cache
-/Users/jess/Documents/Developer/csharp-intermediate/1_Classes/Methods/Methods/obj/Debug/Methods.csproj.CoreCompileInputs.cache
-/Users/jess/Documents/Developer/csharp-intermediate/1_Classes/Methods/Methods/obj/Debug/Methods.exe
-/Users/jess/Documents/Developer/csharp-intermediate/1_Classes/Methods/Methods/obj/Debug/Methods.pdb

@@ -1,6 +1,0 @@
-/Users/jess/Documents/Developer/csharp-intermediate/5_Interfaces/InterfacesAndExtensibility/InterfacesAndExtensibility/bin/Debug/InterfacesAndExtensibility.exe
-/Users/jess/Documents/Developer/csharp-intermediate/5_Interfaces/InterfacesAndExtensibility/InterfacesAndExtensibility/bin/Debug/InterfacesAndExtensibility.pdb
-/Users/jess/Documents/Developer/csharp-intermediate/5_Interfaces/InterfacesAndExtensibility/InterfacesAndExtensibility/obj/Debug/InterfacesAndExtensibility.csprojAssemblyReference.cache
-/Users/jess/Documents/Developer/csharp-intermediate/5_Interfaces/InterfacesAndExtensibility/InterfacesAndExtensibility/obj/Debug/InterfacesAndExtensibility.csproj.CoreCompileInputs.cache
-/Users/jess/Documents/Developer/csharp-intermediate/5_Interfaces/InterfacesAndExtensibility/InterfacesAndExtensibility/obj/Debug/InterfacesAndExtensibility.exe
-/Users/jess/Documents/Developer/csharp-intermediate/5_Interfaces/InterfacesAndExtensibility/InterfacesAndExtensibility/obj/Debug/InterfacesAndExtensibility.pdb

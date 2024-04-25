@@ -1,6 +1,0 @@
-/Users/jess/Documents/Developer/csharp-intermediate/5_Interfaces/InterfacesAndPolymorphism/InterfacesAndPolymorphism/bin/Debug/InterfacesAndPolymorphism.exe
-/Users/jess/Documents/Developer/csharp-intermediate/5_Interfaces/InterfacesAndPolymorphism/InterfacesAndPolymorphism/bin/Debug/InterfacesAndPolymorphism.pdb
-/Users/jess/Documents/Developer/csharp-intermediate/5_Interfaces/InterfacesAndPolymorphism/InterfacesAndPolymorphism/obj/Debug/InterfacesAndPolymorphism.csprojAssemblyReference.cache
-/Users/jess/Documents/Developer/csharp-intermediate/5_Interfaces/InterfacesAndPolymorphism/InterfacesAndPolymorphism/obj/Debug/InterfacesAndPolymorphism.csproj.CoreCompileInputs.cache
-/Users/jess/Documents/Developer/csharp-intermediate/5_Interfaces/InterfacesAndPolymorphism/InterfacesAndPolymorphism/obj/Debug/InterfacesAndPolymorphism.exe
-/Users/jess/Documents/Developer/csharp-intermediate/5_Interfaces/InterfacesAndPolymorphism/InterfacesAndPolymorphism/obj/Debug/InterfacesAndPolymorphism.pdb

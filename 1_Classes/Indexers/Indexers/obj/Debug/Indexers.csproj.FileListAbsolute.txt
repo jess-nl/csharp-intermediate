@@ -1,6 +1,0 @@
-/Users/jess/Documents/Developer/csharp-intermediate/1_Classes/Indexers/Indexers/bin/Debug/Indexers.exe
-/Users/jess/Documents/Developer/csharp-intermediate/1_Classes/Indexers/Indexers/bin/Debug/Indexers.pdb
-/Users/jess/Documents/Developer/csharp-intermediate/1_Classes/Indexers/Indexers/obj/Debug/Indexers.csprojAssemblyReference.cache
-/Users/jess/Documents/Developer/csharp-intermediate/1_Classes/Indexers/Indexers/obj/Debug/Indexers.csproj.CoreCompileInputs.cache
-/Users/jess/Documents/Developer/csharp-intermediate/1_Classes/Indexers/Indexers/obj/Debug/Indexers.exe
-/Users/jess/Documents/Developer/csharp-intermediate/1_Classes/Indexers/Indexers/obj/Debug/Indexers.pdb

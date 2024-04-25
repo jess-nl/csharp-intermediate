@@ -1,6 +1,0 @@
-/Users/jess/Documents/Developer/csharp-intermediate/3_Inheritance/UpcastingAndDowncasting/UpcastingAndDowncasting/bin/Debug/UpcastingAndDowncasting.exe
-/Users/jess/Documents/Developer/csharp-intermediate/3_Inheritance/UpcastingAndDowncasting/UpcastingAndDowncasting/bin/Debug/UpcastingAndDowncasting.pdb
-/Users/jess/Documents/Developer/csharp-intermediate/3_Inheritance/UpcastingAndDowncasting/UpcastingAndDowncasting/obj/Debug/UpcastingAndDowncasting.csprojAssemblyReference.cache
-/Users/jess/Documents/Developer/csharp-intermediate/3_Inheritance/UpcastingAndDowncasting/UpcastingAndDowncasting/obj/Debug/UpcastingAndDowncasting.csproj.CoreCompileInputs.cache
-/Users/jess/Documents/Developer/csharp-intermediate/3_Inheritance/UpcastingAndDowncasting/UpcastingAndDowncasting/obj/Debug/UpcastingAndDowncasting.exe
-/Users/jess/Documents/Developer/csharp-intermediate/3_Inheritance/UpcastingAndDowncasting/UpcastingAndDowncasting/obj/Debug/UpcastingAndDowncasting.pdb

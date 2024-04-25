@@ -1,6 +1,0 @@
-/Users/jess/Documents/Developer/csharp-intermediate/1_Classes/Composition/Composition/bin/Debug/Composition.exe
-/Users/jess/Documents/Developer/csharp-intermediate/1_Classes/Composition/Composition/bin/Debug/Composition.pdb
-/Users/jess/Documents/Developer/csharp-intermediate/1_Classes/Composition/Composition/obj/Debug/Composition.csprojAssemblyReference.cache
-/Users/jess/Documents/Developer/csharp-intermediate/1_Classes/Composition/Composition/obj/Debug/Composition.csproj.CoreCompileInputs.cache
-/Users/jess/Documents/Developer/csharp-intermediate/1_Classes/Composition/Composition/obj/Debug/Composition.exe
-/Users/jess/Documents/Developer/csharp-intermediate/1_Classes/Composition/Composition/obj/Debug/Composition.pdb

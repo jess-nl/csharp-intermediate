@@ -1,6 +1,0 @@
-/Users/jess/Documents/Developer/csharp-intermediate/1_Classes/Properties/Properties/bin/Debug/Properties.exe
-/Users/jess/Documents/Developer/csharp-intermediate/1_Classes/Properties/Properties/bin/Debug/Properties.pdb
-/Users/jess/Documents/Developer/csharp-intermediate/1_Classes/Properties/Properties/obj/Debug/Properties.csprojAssemblyReference.cache
-/Users/jess/Documents/Developer/csharp-intermediate/1_Classes/Properties/Properties/obj/Debug/Properties.csproj.CoreCompileInputs.cache
-/Users/jess/Documents/Developer/csharp-intermediate/1_Classes/Properties/Properties/obj/Debug/Properties.exe
-/Users/jess/Documents/Developer/csharp-intermediate/1_Classes/Properties/Properties/obj/Debug/Properties.pdb
